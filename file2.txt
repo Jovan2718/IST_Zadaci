@@ -1,2 +1,5 @@
 NESTO2
+<<<<<<< HEAD
 boosted master
+promenjeno
+>>>>>>> dev

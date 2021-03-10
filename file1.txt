@@ -1,3 +1,6 @@
 Nesto
+<<<<<<< HEAD
 master tier
 promenjen i ovaj
+dodato opet promenjeno
+>>>>>>> dev
